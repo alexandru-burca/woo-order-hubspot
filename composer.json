@@ -1,0 +1,12 @@
+{
+    "name": "alexandru/woo-hubspot-order-products-review",
+    "require": {
+        "mailgun/mailgun-php": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "Alexandru Burca",
+            "email": "sanduburca@gmail.com"
+        }
+    ]
+}
